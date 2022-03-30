@@ -2,8 +2,9 @@
 - 👀 I’m interested in perfecting my use of PHP, MySQL and javascript 
 - 🌱 I’m currently learning C languaje and javascript
 - 💞️ I’m looking to collaborate on ...varius projects of web development
-- 📫 How to reach me ... LauchaX129@gmail.com
-linkedin.com/in/lautaro-giuglietti
+- 📫 How to reach me ...
+- <p>LauchaX129@gmail.com </p>
+- <p>linkedin.com/in/lautaro-giuglietti</p>
 
 <!---
 LGiuglietti/LGiuglietti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
