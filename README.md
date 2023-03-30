@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LGiuglietti a college student from argentina
 - 👀 I’m interested in perfecting my use of PHP, MySQL and javascript 
-- 🌱 I’m currently learning C languaje and javascript
-- 💞️ I’m looking to collaborate on ...varius projects of web development
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on ...varius projects of android development
 - 📫 How to reach me ...
 - <p>LauchaX129@gmail.com </p>
 - <p>linkedin.com/in/lautaro-giuglietti</p>
